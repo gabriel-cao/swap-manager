@@ -5,12 +5,12 @@ authors:
   - family-names: Cao Di Marco
     given-names: Gabriel
     affiliation: "Centro de Altos Estudios en Ciencias Humanas y de la Salud (CAECIHS), Universidad Abierta Interamericana – CONICET, Buenos Aires, Argentina"
-  - family-names: Capani
-    given-names: Francisco
-    affiliation: "Centro de Altos Estudios en Ciencias Humanas y de la Salud (CAECIHS), Universidad Abierta Interamericana – CONICET, Buenos Aires, Argentina; Universidad Autónoma de Chile, Santiago, Chile"
   - family-names: Cao Di Marco
     given-names: Daniela
     affiliation: "CAECIHS, Universidad Abierta Interamericana – CONICET, Buenos Aires, Argentina"
+  - family-names: Capani
+    given-names: Francisco
+    affiliation: "Centro de Altos Estudios en Ciencias Humanas y de la Salud (CAECIHS), Universidad Abierta Interamericana – CONICET, Buenos Aires, Argentina; Universidad Autónoma de Chile, Santiago, Chile"
 title: "SwapManager: manual RAM/swap control for Linux via process_madvise()"
 version: 1.0.0
 date-released: 2026-03-23
